@@ -8,4 +8,6 @@ Kevs public hosted
 - [kevs_ferries_h264_1920x1080_60fps.mp4](https://media.githubusercontent.com/media/kevs-canva/kevs-canva.github.io/main/streams/kevs_ferries_h264_1920x1080_60fps.mp4)
 - [reckless_in_pyrmont.mp4](https://media.githubusercontent.com/media/kevs-canva/kevs-canva.github.io/main/streams/reckless_in_pyrmont.mp4)
 - [sample_20m.mp4](https://media.githubusercontent.com/media/kevs-canva/kevs-canva.github.io/main/streams/sample_20m.mp4)
-
+- [simpleplayer_stress_tierA_1440p60.mp4](https://media.githubusercontent.com/media/kevs-canva/kevs-canva.github.io/main/streams/simpleplayer_stress_tierA_1440p60.mp4)
+- [simpleplayer_stress_tierB_1080p60.mp4](https://media.githubusercontent.com/media/kevs-canva/kevs-canva.github.io/main/streams/simpleplayer_stress_tierB_1080p60.mp4)
+- [simpleplayer_stress_tierC_720p60.mp4](https://media.githubusercontent.com/media/kevs-canva/kevs-canva.github.io/main/streams/simpleplayer_stress_tierC_720p60.mp4)
